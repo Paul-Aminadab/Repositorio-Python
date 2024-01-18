@@ -1,3 +1,7 @@
+# Name: Calculator in Pyhton
+# Created by: PaulSMRT
+# Date: 18/01/2024
+
 evolver = {
     'Cannon': 22,
     'Ice_Wall': 150,
